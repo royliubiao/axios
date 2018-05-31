@@ -31,7 +31,9 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 8+ ✔ |
 ## Installing
 
 Using npm:
-
+```bash
+$ npm install qs
+```
 ```bash
 $ npm install axios
 ```
